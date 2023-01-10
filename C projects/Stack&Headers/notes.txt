@@ -1,0 +1,21 @@
+Stack Functions
+    Push - Push item onto the top of the stack  
+    Pop - pop the top item off the stack (remove top item)
+    Top - return the data at the top of stack
+
+        Can only add or remove from top of list (can only see top of list)
+        A lot simpler and easier than a linked list
+ON FINAL THE STACK IS FILO:(FIRST IN LAST OUT)
+
+-----------------------------------------
+------------------------------------------------------------------------------------------
+------------------------------------------
+
+Queue Functions 
+    enqueue - append to the back of the queue (stack)
+    dequeue - remove the front of the queue (bottom of stack)
+    front - view the front of the queue
+
+FIFO(FIRST IN FIRST OUT) - first element in the list will be the first element popped or removed from the list
+
+

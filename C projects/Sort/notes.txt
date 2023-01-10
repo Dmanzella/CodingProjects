@@ -1,0 +1,4 @@
+O(n) is how algorithms and sorting methods are judged in terms of efficiency worst case scenario
+
+bubble sort is O(n^2) it requires n iterations with n operayions each iteration,, so n * n efficiency
+

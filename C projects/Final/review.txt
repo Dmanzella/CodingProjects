@@ -1,0 +1,2 @@
+linked list needs (next and data)
+undo button is a stack
